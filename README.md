@@ -12,7 +12,7 @@ v16.17.0
 
 ### 安装前端
 ```shell
-$ git clone https://gitee.com/namegen/agen_music.git
+$ git clone https://github.com/agengen1/agen_music.git
 $ cd agen_music
 $ npm install
 ```
