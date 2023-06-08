@@ -1,0 +1,226 @@
+{
+  "id": "3985253",
+  "name": "vghtyfjmnb",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9694561",
+      "name": "弹窗_全屏歌词_搜索歌词_52",
+      "font_class": "danchuang_quanpinggeci_sousuogeci_",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "5150528",
+      "name": "icon_正在播放-线",
+      "font_class": "icon_zhengzaibofang-xian",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "1870114",
+      "name": "评论",
+      "font_class": "pinglun1",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2674483",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5405551",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "20736099",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "20784230",
+      "name": "上一首歌",
+      "font_class": "shangyishouge",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "11510761",
+      "name": "音乐列表",
+      "font_class": "yinleliebiao",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "14754928",
+      "name": "通用-排行榜",
+      "font_class": "paihangbang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "20342947",
+      "name": "今日推荐",
+      "font_class": "jinrituijian",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "28204007",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1029",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "201638",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "809967",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "913744",
+      "name": "关注",
+      "font_class": "chakantieziguanzhu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "1504355",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1985075",
+      "name": "表情包",
+      "font_class": "biaoqingbao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "4138818",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "5121491",
+      "name": "发布",
+      "font_class": "fabu1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "5672461",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "7325940",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "10063215",
+      "name": "返回",
+      "font_class": "NMStubiao-",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11261195",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11902246",
+      "name": "定位",
+      "font_class": "dingwei-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12476900",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12515452",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "16399012",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    },
+    {
+      "icon_id": "25964444",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "27152698",
+      "name": "暂停,停止",
+      "font_class": "ZanTing",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "13415278",
+      "name": "个人-选中",
+      "font_class": "geren-xuanzhong",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "12320515",
+      "name": "新闻-选中",
+      "font_class": "xinwen-xuanzhong",
+      "unicode": "e824",
+      "unicode_decimal": 59428
+    }
+  ]
+}
